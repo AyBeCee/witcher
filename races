@@ -1,5 +1,5 @@
 {
-    "Witchers": {
+    "Witcher": {
         "Description": "Witchers have been a touchy issue since they were made centuries ago. Heh, but let me tell ya friend, even when they were sought after, nobody really liked ‘em. They’re raised from human children taken to one of the five Schools of the Witcher. At these witcher keeps, the children go through some kinda gruelin’ trainin’ proccess that makes ‘em into livin’ weapons. Fast as hell, trained to fight blind and hunt just about every monster any poor son of a whore’s likely to find. After a few years of this they go through a bunch of mutations. One ya hear about most’s the Trial of the Grasses. The one witcher I traveled with said only one in four kids survives this whole mess.<br>The ones that survive are changed. They’ve got bright cat’s eyes and just about no feelin’ left in ‘em. Heard the emotion part evens out after a while. Hell, the witcher I traveled with even made a few jokes on the road. But from that moment on, they’re killers. Reborn for one purpose: killin’ monsters. And hell, see a witcher in action and you’ll see the payoff of all that hardship. Problem is they’re mutants, and if there’s one thing people hate it’s a mutant. Witchers have barely any charisma left in ‘em so most people think they’re cold, heartless murderers who’ll steal your gold, rape your daughter, and then put a sword in your gut",
         "Perks": [
             {
@@ -20,7 +20,7 @@
             }
         ]
     },
-    "Elves (The Aen Seidhe)": {
+    "Elf": {
         "Description": "Elves, or the Aen Seidhe, since ours aren’t the only elves out there, are a sad tale indeed. Heh. They came to the world not long before humans, in great white ships from somewhere. Wouldn’t call ‘em the kindest of the races but they got along well enough with the rest of us. They’re not too unlike humans: tall, thin, prone to lookin’ down on others. Only difference is their pointed ears, their eternal lives, and their bond with the land. Heh, the elves are at one with nature or somethin’. Lived off the land for generations, foragin’ for food and buildin’ great palaces. Don’t even have sharp teeth after all those years of eatin’ berries and plants. Don’t get ‘em cross though; an elf ’s hell on the battlefield too. They may not wear much armor but they’re hard as frogs in winter to find in the wilderness, and probably the best archers you’ll ever see.",
         "Perks": [
             {
@@ -37,7 +37,7 @@
             }
         ]
     },
-    "Dwarves": {
+    "Dwarf": {
         "Description": "Heh. My friend, rivers dry up, mountains crumble, but dwarves are a constant. We may be short compared to the elves and the humans but we’re sturdier than they’ll ever be—the definition of barrel-chested! We dwarves have been around for ages, livin’ in the mountains and plyin’ our trade: forgin’. We’re friendly enough when ya get to know us and easy to get along with as long as ya don’t piss in our faces. The humans may not love us dwarves, but they need us for our skill and our steel. ‘Sides, unlike the damn elves we don’t hold an in-born grudge against the humans. We keep to our business and them to theirs. Share a drink here and there. Heh, sadly, madness is spreadin’ quick through the North and dwarves are targets now more than ever. Lucky the humans have a hard time pickin’ out our women! Never find a prettier lass than a dwarven girl. They say the fuller the beard, the fuller the...well. Ya get my point.",
         "Perks": [
             {
@@ -54,7 +54,7 @@
             }
         ]
     },
-    "Humans": {
+    "Human": {
         "Description": "If I were a worse person I’d vent my spleen and tell ya all the terrible things humans have done to my people and the other elder races. But I’m better than that. Worked with a lot of humans during the Northern Wars. Hell, most of the Temerian army’s humans. Humans can be fine folks. They’re varied in nature and usually a pretty resilient race. They tend to get swept up in causes and fears pretty easily, though. They’re the dominant species on the Continent right now and they know it. Heh. It’s easy to speak ill of ‘em. They just about destroyed the elder races, wiped out the vran, killed all but a few hundred of the werebbubbs, built their cities on top of elderfolk cities, and depending on where you are they’re still killing elderfolk by the score every day. But they’re not all bad. Heh, most mages are human and they may destabilize countries and plunge the world into chaos, but they’ve also made the world better with magic and science. Human are a clever bunch, and in a pinch, a human you know well will probably have your back.",
         "Perks": [
             {
